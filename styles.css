@@ -59,6 +59,7 @@ section#threeBlock {
 	margin: 17px;
 	border-top:10px solid;
     border-top-color: green;
+    width: 1100px;
 }
 
 section.Specs {
